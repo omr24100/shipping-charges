@@ -2,7 +2,7 @@
 //
 /*
 File Name: Shipping Charges
-Github URL:
+Github URL:https://github.com/omr24100/shipping-charges.git
 Date: 2/27/25
 Programmer: Olivia Ruiz
 Requirements:Write a program that asks for the weight 
